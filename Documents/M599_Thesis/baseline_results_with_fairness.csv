@@ -1,7 +1,0 @@
-Dataset,Model,Accuracy,SPD,DI,EOD
-Adult Dataset,Logistic Regression,0.8057,0.1384,3.4769,0.2079
-Adult Dataset,Random Forest,0.8541,0.1704,2.7552,0.0133
-Adult Dataset,Gradient Boosting,0.8589,0.1653,3.0984,0.084
-Merged HR Dataset,Logistic Regression,0.8889,0.0,1.0,0.0
-Merged HR Dataset,Random Forest,0.7222,0.0,1.0,0.0
-Merged HR Dataset,Gradient Boosting,0.6667,-0.0833,0.9167,-0.1111

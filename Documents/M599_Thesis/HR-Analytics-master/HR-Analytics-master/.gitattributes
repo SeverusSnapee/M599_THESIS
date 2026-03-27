@@ -1,5 +1,0 @@
-* text=auto
-*.html linguist-detectable=false
-*.ipynb linguist-language=Python
-*.gitattributes text
-.gitignore text
