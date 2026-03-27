@@ -1,0 +1,7 @@
+Dataset,Model,Accuracy
+Adult Dataset,Logistic Regression,0.8057
+Adult Dataset,Random Forest,0.8541
+Adult Dataset,Gradient Boosting,0.8589
+Merged HR Dataset,Logistic Regression,0.8889
+Merged HR Dataset,Random Forest,0.7222
+Merged HR Dataset,Gradient Boosting,0.6667
